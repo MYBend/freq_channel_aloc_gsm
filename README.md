@@ -5,7 +5,7 @@ Major problem in this project is being addressed is Interference. Which can be o
 1) Distance between transmitters 
 2) Geographical position
 3) Power of the signals 
-4) Direction in which signals are transmitted (onidirectional)
+4) Direction in which signals are transmitted (onidirectional in our case)
 5) Weather conditions 
 6) Assigned frequencies 
 7) Co-channel interference 
